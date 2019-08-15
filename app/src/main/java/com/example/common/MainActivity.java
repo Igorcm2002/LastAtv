@@ -59,3 +59,5 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "OnDestroy", Toast.LENGTH_LONG).show();
     }
 }
+
+//test
